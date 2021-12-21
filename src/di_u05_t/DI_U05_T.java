@@ -28,6 +28,7 @@ public class DI_U05_T extends Application {
         stage.setResizable(false);
         stage.show();
     }
+      
 
     /**
      * @param args the command line arguments
